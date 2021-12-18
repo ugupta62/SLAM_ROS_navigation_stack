@@ -4,7 +4,7 @@ This project navigates the Turtlebot3 to given waypoints in waypoints.yaml using
 
 
 Commands to run on the robot (the master):
-- run the camera bringup: ```roslaunch turtlebot3_bringup turtlebot3_camera_robot.launch```
+- run the bringup: ```roslaunch turtlebot3_bringup turtlebot3_robot.launch```
 
 Commands to run on the PC (the slave):
 - run the navigation stack: ```roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=/home/burger/catkin_ws/src/gryffindor_final_demo/map.yaml```
