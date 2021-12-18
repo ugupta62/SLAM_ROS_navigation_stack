@@ -1,5 +1,5 @@
 # SLAM_ROS_navigation_stack
-This project navigates the Turtlebot3 to a given waypoints in waypoints.yaml using ROS nav_stack for avoiding static and dynamic obstacle in the provided environment -map.pgm.
+This project navigates the Turtlebot3 to given waypoints in waypoints.yaml using ROS nav_stack avoiding static and dynamic obstacle in the provided environment -map.pgm.
 
 
 
